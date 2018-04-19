@@ -1,0 +1,23 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Trebuchet MS", Futura, arial, sans-serif;
+	text-align: center;
+}
+
+#wrapper {
+
+	height: 100vh;
+	width: 100vw;
+	position: fixed;
+	top: 8px;
+	left: 8px;
+}
+
+#bg {
+
+	height: 100vh;
+	width: 100vw;
+	background-color: #aee
+
+}
